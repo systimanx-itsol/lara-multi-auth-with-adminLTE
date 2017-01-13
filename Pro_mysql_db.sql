@@ -64,7 +64,7 @@ CREATE TABLE `customers` (
 --
 
 INSERT INTO `customers` (`id`, `name`, `email`, `password`, `remember_token`, `created_at`, `updated_at`) VALUES
-(1, 'haneefa', 'haneefa@systimanx.com', '$2y$10$ik0SS5zD204tsErftoAmxu8z9LO44DPO0NY2/lv86erSzEoKdMI7i', 'jayKRV8hQdPcctR6mi8HcMx6P8h1pOC3TZrZ18x9u92FM614PV8OH8eO6mTP', '2017-01-10 02:51:46', '2017-01-10 03:27:23');
+(1, 'demo', 'demo@test.com', '$2y$10$ik0SS5zD204tsErftoAmxu8z9LO44DPO0NY2/lv86erSzEoKdMI7i', 'jayKRV8hQdPcctR6mi8HcMx6P8h1pOC3TZrZ18x9u92FM614PV8OH8eO6mTP', '2017-01-10 02:51:46', '2017-01-10 03:27:23');
 
 -- --------------------------------------------------------
 
