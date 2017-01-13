@@ -7,6 +7,7 @@ DATABASE FILE: Pro_mysql_db.sql
 There are two type of users 1) admin and 2) customer
 
 How to Use?
+===========
 
 1) http://localhost/public/admin/login
 
