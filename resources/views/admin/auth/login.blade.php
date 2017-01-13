@@ -9,7 +9,7 @@ Admin - Login
         <div class="login-logo"></div>
         <div class="col-md-5 col-md-offset-4">
             <div class="panel panel-default">
-                <div style="text-align: center; font-size:20px; font-weight: bold; background: #FFF" class="panel-heading"> SAAS Admin Login</div>
+                <div style="text-align: center; font-size:20px; font-weight: bold; background: #FFF" class="panel-heading"> Admin Login</div>
                 <div class="panel-body">
                     <form class="form-horizontal" role="form" method="POST" action="{{ url('/admin/login') }}">
                         {{ csrf_field() }}
